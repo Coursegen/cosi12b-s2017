@@ -4,7 +4,7 @@ require 'coursegen'
 AWS_BUCKET = "cosi12b-s2017"
 
 # Local directory path for directory of content
-CONTENT_PATH = "/mydev/cosi12b-s2016"
+CONTENT_PATH = "/mydev/cosi12b-s2017"
 
 # Copyright string
 COPYRIGHT_STRING = "Copyright (2013-2017) R. Pito Salas, pitosalas@brandeis.edu"
